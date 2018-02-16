@@ -1,0 +1,23 @@
+<div class="parent">
+  <div class="rows"></div>
+  <div class="rows"></div>
+  <div class="rows"></div>
+  <div style="clear:both"></div>
+</div>
+
+
+
+.parent {
+  width: 340px;
+  min-height: 20px;
+  background: #FF6600;
+  
+}
+.rows {
+  width: 100px;
+  height: 100px;
+  background: #00F1FF;
+  margin: 5px;
+  float: left;
+
+}
